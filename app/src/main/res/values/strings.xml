@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">InstaSaver</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_reels">Reels</string>
+    <string name="nav_videos">Videos</string>
+    <string name="nav_photos">Photos</string>
+    <string name="nav_stories">Stories</string>
+    <string name="nav_downloads">Downloads</string>
+    <string name="nav_settings">Settings</string>
+    <string name="nav_about">About</string>
+</resources>

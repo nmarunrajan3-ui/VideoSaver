@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Camera Outline -->
+    <path
+        android:strokeColor="#E1306C"
+        android:strokeWidth="5"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:pathData="M32,30 h44 a14,14 0 0 1 14,14 v32 a14,14 0 0 1 -14,14 h-44 a14,14 0 0 1 -14,-14 v-32 a14,14 0 0 1 14,-14 Z" />
+    
+    <!-- Camera Lens / Center Ring -->
+    <path
+        android:strokeColor="#833AB4"
+        android:strokeWidth="4"
+        android:pathData="M54,54 m-15,0 a15,15 0 1,0 30,0 a15,15 0 1,0 -30,0" />
+
+    <!-- Download Arrow in center -->
+    <path
+        android:fillColor="#FCAF45"
+        android:pathData="M54,39 L54,63 M46,55 L54,63 L62,55"
+        android:strokeColor="#FCAF45"
+        android:strokeWidth="4.5"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round" />
+
+    <!-- Corner flash dot -->
+    <path
+        android:fillColor="#FD1D1D"
+        android:pathData="M75,37 m-3,0 a3,3 0 1,0 6,0 a3,3 0 1,0 -6,0" />
+</vector>
